@@ -1,0 +1,70 @@
+{
+  "applicant": {
+    "surname": "Doevelop",
+    "former_surname": "Smith",
+    "first_names": "John Michael",
+    "date_of_birth": "1990-01-15",
+    "place_of_birth": "New York",
+    "country_of_birth": "USA",
+    "current_nationality": "American",
+    "former_nationality": "Canadian",
+    "marital_status": "single",
+    "sex": "male"
+  },
+  "passport": {
+    "number": "123456789",
+    "issued_by": "USA",
+    "date_of_issue": "2020-01-01",
+    "valid_until": "2030-01-01"
+  },
+  "address": {
+    "street": "123 Main St",
+    "postal_code": "10001",
+    "city": "New York",
+    "country": "USA",
+    "email": "john.doe@example.com",
+    "phone_number": "+1-555-1234"
+  },
+  "residence": {
+    "permanent_residence": "USA",
+    "intended_duration_of_stay": {
+      "from_date": "2025-03-01",
+      "to_date": "2025-04-02"
+    },
+    "purpose_of_stay": "football",
+    "intended_employment": "Software Engineer"
+  },
+  "references_in_germany": {
+    "name": "Tech Company GmbH",
+    "address": {
+      "street": "Tech Park 1",
+      "postal_code": "10115",
+      "city": "Berlin",
+      "country": "Germany"
+    },
+    "phone_number": "+49-30-123456",
+    "email": "hr@techcompany.de"
+  },
+  "occupation": {
+    "trained_profession": "Computer Science",
+    "current_profession": "Software Developer"
+  },
+  "means_of_subsistence": "Salary from employment",
+  "previous_stays_in_germany": [
+    {
+      "from_date": "2020-06-01",
+      "to_date": "2020-06-15",
+      "purpose": "Tourism"
+    }
+  ],
+  "criminal_offenses": "No",
+  "expulsion_or_deportation": "No",
+  "accompanying_family_members": [
+    {
+      "name": "Jane Doe",
+      "relationship": "Spouse",
+      "date_of_birth": "1992-02-20"
+    }
+  ],
+  "maintain_permanent_residence_outside_germany": "No"
+}
